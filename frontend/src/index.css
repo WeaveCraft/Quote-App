@@ -1,0 +1,18 @@
+/* All element will inherit these settings.
+   margin and padding 0 is set because browsers have an default margin and padding, making it easier to style for different browsers.
+   Border-box tells the browser to account for any border and padding in the values you specify for an element's width and height.
+*/
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+/* when default browser settings of 16px is used. 62.5% is 10px (calculating padding/margin with rem units is preferred and every rem unit will be 10px)*/
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6em;
+}
