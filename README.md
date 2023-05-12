@@ -1,4 +1,4 @@
-# Cleaners Operator Panel
+# Quote-App
 
 ## Local Development
 
@@ -109,6 +109,7 @@ Test suits can be run by running `dotnet test` for a single test run or `dotnet 
 
 ### **Preview of the application** ###
 ![image](https://github.com/vihu001/Quote-App/assets/90194213/811affea-dcb3-46a8-88dc-5aa1963674e4)
+![image](https://github.com/vihu001/Quote-App/assets/90194213/1e49e374-9c5c-4f42-a583-b56924260171)
 
 
 
