@@ -110,6 +110,7 @@ Test suits can be run by running `dotnet test` for a single test run or `dotnet 
 ### **Preview of the application** ###
 ![image](https://github.com/vihu001/Quote-App/assets/90194213/811affea-dcb3-46a8-88dc-5aa1963674e4)
 ![image](https://github.com/vihu001/Quote-App/assets/90194213/1e49e374-9c5c-4f42-a583-b56924260171)
+<img width="1138" alt="image" src="https://github.com/vihu001/Quote-App/assets/90194213/adfd7f51-e4a1-4fb0-94e1-7b46998ae70d">
 
 
 
