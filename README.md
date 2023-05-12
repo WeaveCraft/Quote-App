@@ -107,4 +107,4 @@ standing in the `/workspaces/cleaners-opanel/` directory, run `./scripts/develop
 
 Test suits can be run by running `dotnet test` for a single test run or `dotnet watch test --project Tests/Web.Tests` to have hot-reloading while writing tests.
 
-Yo! Gerda, Viktor, Bassam eller Adam eller Biso var här!
+### **Preview of the application** ###
